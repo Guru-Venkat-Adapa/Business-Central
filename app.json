@@ -1,0 +1,28 @@
+{
+  "id": "34f5817e-9137-4aef-8847-4ca6a48834d5",
+  "name": "ALProject2",
+  "publisher": "Default Publisher2",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "17.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "showMyCode": true,
+  "runtime": "6.0",
+  "features": [
+    "NoImplicitWith"
+  ]
+}
