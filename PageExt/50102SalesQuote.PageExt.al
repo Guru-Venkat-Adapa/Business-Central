@@ -12,7 +12,7 @@ pageextension 50102 SalesQuoteExt extends "Sales Quote"
                 Editable = false;
                 trigger OnValidate()
                 begin
-                    CurrPage.SalesOrderStatusBar.SetProgress(Rec.Progress);
+                    CurrPage.SalesOrderStatusBar.SetProgress(Rec. Progress);
                 end;
             }
             usercontrol(SalesOrderStatusBar; SalesOrderStatusBar)
